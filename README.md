@@ -1,5 +1,5 @@
 # Nut1122.github.io
-<img src="https/Nut1122.github.io/exif_temp_image.jpeg" alt="Nut Photo" align="right" width="30%"/>
+<img src="exif_temp_image.jpeg" alt="Nut Photo" align="right" width="30%"/>
 # _Napaworn Yodbancha_
 > _Praeceptor Emeritus_<br />
 > Payap University, Department of Computer Science<br /> > Amphur Muang, Chiang Mai 50000, Thailand<br />
