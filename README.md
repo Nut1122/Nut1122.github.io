@@ -1,5 +1,4 @@
 # Nut1122.github.io
-Website 
 <img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
 # _Robert P Batzinger_
 > _Praeceptor Emeritus_<br />
