@@ -6,8 +6,8 @@
 > I am a student at Inter Payap University, studying in the International Business Management program.
 
 # Education
-* International Business Management
-* PhD -  In Payap University
+* Study International Business Management
+* Study in Payap University
   
 # Experience
 * Participated in the YAMAHA Music Contest.
@@ -18,8 +18,7 @@
 # Interests
 * Business management for running a restaurant.
 * HR duties and responsibilities.
-* Language training in Chinese, English, Japanese, and Korean.
-* Studying psychology.
+* I interest to learn English.
   
 # Contact Info
 * [Web Page](https://rbatzing.github.io)
