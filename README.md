@@ -23,5 +23,4 @@
 # Contact Info
 * [Web Page](https://Nut1122.github.io)
 * [Twitter](https://twitter.com/Natsushi629)
-* [Google Scholar](https://scholar.google.com/citations?user=LYSacdYAAAAJ&hl=en) * [Research Gate](https://www.researchgate.net/profile/Robert-Batzinger)
 
