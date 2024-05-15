@@ -18,7 +18,7 @@
 # Interests
 * Business management for running a restaurant.
 * HR duties and responsibilities.
-* I interest to learn English.
+* I can speak English.
   
 # Contact Info
 * [Web Page](https://rbatzing.github.io)
